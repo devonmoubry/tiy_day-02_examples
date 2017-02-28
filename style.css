@@ -2,7 +2,7 @@ a {
   text-align: center;
 }
 
-main {
+#main {
   width: 600px;
   margin: 0 auto;
 }
@@ -140,7 +140,7 @@ nav {
 section {
   margin-left: 200px;
 }
-/*
+
 article img {
   float: right;
   width: 50%;
@@ -221,7 +221,7 @@ nav {
   width: 200px;
   min-width: 100px;
 }
-.none {
+//.none {
   -webkit-flex: none;
           flex: none;
   width: 200px;
@@ -244,4 +244,3 @@ nav {
   -webkit-justify-content: center;
           justify-content: center;
 }
-*/
