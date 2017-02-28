@@ -1,4 +1,8 @@
-#main {
+a {
+  text-align: center;
+}
+
+main {
   width: 600px;
   margin: 0 auto;
 }
@@ -129,11 +133,6 @@ img {
   overflow: auto;
 }
 
-.clearfix {
-  overflow: auto;
-  zoom: 1;
-}
-
 nav {
   float: left;
   width: 200px;
@@ -141,7 +140,7 @@ nav {
 section {
   margin-left: 200px;
 }
-
+/*
 article img {
   float: right;
   width: 50%;
@@ -245,3 +244,4 @@ nav {
   -webkit-justify-content: center;
           justify-content: center;
 }
+*/
